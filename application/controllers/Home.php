@@ -16,7 +16,7 @@ class Home extends CI_Controller {
 			'view'          => 'home/index',
 			'js'            => array(),
 			'css'           => array(),
-			'title'         => 'ANJINGGGG',
+			'title'         => 'Pet Shop',
 			'productHome'	=> $this->m_product->listProductHome(),
 		);
 
